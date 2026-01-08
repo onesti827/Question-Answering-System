@@ -1,6 +1,7 @@
 # Question Answering System (CS480)
 
 Originally developed as a team project for CS480 from University of Illinois Chicago, Currently being independently extended. 
+
 ###########################################################
 
 Question answering system using PostgreSQL and vector search.
